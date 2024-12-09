@@ -10,7 +10,7 @@
 ## Copy and run :
 
 ```
-curl -LO raw.githubusercontent.com/Titash-shil/mini-lab-BigQuery-1/refs/heads/main/mini%20lab%20%3A%20BigQuery%20%3A%202_QWIKLAB_EXPLORERS_TS.sh
+curl -LO raw.githubusercontent.com/Titash-shil/mini-lab-BigQuery-set/refs/heads/main/mini%20lab%20%3A%20BigQuery%20%3A%202_QWIKLAB_EXPLORERS_TS.sh
 
 sudo chmod +x mini%20lab%20%3A%20BigQuery%20%3A%202_QWIKLAB_EXPLORERS_TS.sh
 
